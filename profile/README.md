@@ -13,5 +13,5 @@ _Nextflow DSL2_ optimized processing modules and workflows tailored to neuroimag
 **[nf-neuro](https://nf-neuro.github.io/modules) aligns with the [nf-core](https://nf-co.re) framework
 to streamline the development of neuroimaging pipelines !**
 
-- 👩‍💻 Check out the [documentation](hhttps://nf-neuro.github.io/welcome).
+- 👩‍💻 Check out the [documentation](https://nf-neuro.github.io/welcome).
 - 🌈 Please abide by nf-core community [code of conduct](https://nf-co.re/code_of_conduct)
