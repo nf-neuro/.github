@@ -15,3 +15,10 @@ to streamline the development of neuroimaging pipelines !**
 
 - 👩‍💻 Check out the [documentation](https://nf-neuro.github.io/welcome).
 - 🌈 Please abide by nf-core community [code of conduct](https://nf-co.re/code_of_conduct)
+
+Follow updates in the [discussions tab](https://github.com/orgs/nf-neuro/discussions) !
+
+>[!IMPORTANT]
+>We're having temporary problems transferring the [nf-neuro](https://github.com/scilus/nf-neuro) to the organisation.
+>They are causing unavailability issues to users of the `nf-core` command line, and impacting `cloning` and `forking`.
+>Follow discussions [here](https://github.com/orgs/nf-neuro/discussions/1) for more information.
