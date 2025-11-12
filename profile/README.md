@@ -10,7 +10,7 @@ Welcome to the [nf-neuro](https://nf-neuro.github.io) organization, developping 
 [SCIL team](https://scil-documentation.readthedocs.io/en/latest/). Our goal is to **provide
 _Nextflow DSL2_ optimized processing modules and workflows tailored to neuroimaging data**.
 
-**[nf-neuro](https://nf-neuro.github.io/modules) aligns with the [nf-core](https://nf-co.re) framework
+**[nf-neuro](https://nf-neuro.github.io) aligns with the [nf-core](https://nf-co.re) framework
 to streamline the development of neuroimaging pipelines !**
 
 - 👩‍💻 Check out the [documentation](https://nf-neuro.github.io/welcome).
